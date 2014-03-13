@@ -32,7 +32,7 @@ Utilizamos Visual Studio 2013.
     + Especificação da linguagem C#
       + [MSDN](http://msdn.microsoft.com/pt-br/library/ms228593.aspx)
   
-  + [Visual Studio]
+  + [Visual Studio](http://msdn.microsoft.com/pt-br/library/aa187916.aspx)
 
   + [.NET Framework](http://msdn.microsoft.com/pt-br/library/aa139615.aspx)
     + .NET Framework 4.5.1
