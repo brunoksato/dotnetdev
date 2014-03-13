@@ -35,14 +35,14 @@ Utilizamos Visual Studio 2013.
   + [Visual Studio]
 
   + [.NET Framework](http://msdn.microsoft.com/pt-br/library/aa139615.aspx)
-    + [.NET Framework 4.5.1]
-    + [.NET Framework 4.5]
-    + [.NET Framework 4.0]
-    + [.NET Framework 3.5]
-    + [.NET Framework 3.0]
-    + [.NET Framework 2.0]
-    + [.NET Framework 1.1]
-  
+    + .NET Framework 4.5.1
+    + .NET Framework 4.5
+    + .NET Framework 4.0
+    + .NET Framework 3.5
+    + .NET Framework 3.0
+    + .NET Framework 2.0
+    + .NET Framework 1.1
+
   + [ASP.NET Web Forms](http://www.asp.net/web-forms)
 
   + [ASP.NET MVC](http://www.asp.net/mvc)
@@ -60,3 +60,13 @@ Utilizamos Visual Studio 2013.
   + [Dynamics CRM](http://msdn.microsoft.com/en-us/dynamics/crm/dn467921)
 
   + [VSTO Excel](http://msdn.microsoft.com/pt-br/office/hh133430.aspx)
+  
+
+# Licença
+  DotNetDev - [http://opensource.org/licenses/mit-license.html](http://opensource.org/licenses/mit-license.html)
+  
+# Contact
+  Email - [bruno.sato@live.com](bruno.sato@live.com)
+  
+# Changelog
+  0.1 - Initital
