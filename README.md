@@ -1,8 +1,9 @@
-# DotNetDev - Sobre .NET - C# - ASP.NET - ASP.NET MVC - WCF - WEB API.NET e muito mais...
+# [DotNetDev](http://dotnetdev.io)
 
 # Introdução
 
 DotNetDev foi criado com conceito de trazer informações e códigos sobre recursos disponiveis na plataforma .NET
+Sobre .NET - C# - ASP.NET - ASP.NET MVC - WCF - WEB API.NET e muito mais...
 
 # Começar
 
@@ -32,7 +33,6 @@ Utilizamos Visual Studio 2013.
       + [MSDN](http://msdn.microsoft.com/pt-br/library/ms228593.aspx)
   
   + [Visual Studio]
-    +...
 
   + [.NET Framework](http://msdn.microsoft.com/pt-br/library/aa139615.aspx)
     + [.NET Framework 4.5.1]
@@ -44,28 +44,19 @@ Utilizamos Visual Studio 2013.
     + [.NET Framework 1.1]
   
   + [ASP.NET Web Forms](http://www.asp.net/web-forms)
-    +...
 
   + [ASP.NET MVC](http://www.asp.net/mvc)
-    +...
 
   + [ASP.NET Web Pages(Razor)](http://www.asp.net/web-pages)
-    +...
 
   + [ASP.NET Single Page Application](http://www.asp.net/single-page-application)
-    +...
 
   + [ASP.NET Web API](http://www.asp.net/web-api)
-    +...
 
   + [ASP.NET SignalR](http://www.asp.net/signalr)
-    +...
 
   + [Entity Framework](http://www.asp.net/entity-framework)
-    +...
 
   + [Dynamics CRM](http://msdn.microsoft.com/en-us/dynamics/crm/dn467921)
-    +...
 
   + [VSTO Excel](http://msdn.microsoft.com/pt-br/office/hh133430.aspx)
-    +...
